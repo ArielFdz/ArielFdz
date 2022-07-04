@@ -1,7 +1,23 @@
+<h1 align="center">¡Hello Friends!</h1>
+
+<!--- -------------------------------------------------------------------------------------------------------------------------------- -->
+<h3>  About Me 👦 </h3>
+
+- 👨‍🎓 I'm a Software Engineering student at the Autonomous University of Yucatan
+- ⛹️‍♂️ I love to play basketball in my free time
+- 🎮 My favorite video game is LeftForDead
+- 🎸 Music is life and life is music
+- 
+
+<!--- -------------------------------------------------------------------------------------------------------------------------------- -->
+<h3>  My life motto </h3>
+
+*hello*
+
 
 <!--- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
