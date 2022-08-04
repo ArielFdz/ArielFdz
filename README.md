@@ -7,7 +7,6 @@
 - ⛹️‍♂️ I love to play basketball in my free time
 - 🎮 My favorite video game is LeftForDead
 - 🎸 Music is life and life is music
-- 
 
 <!--- -------------------------------------------------------------------------------------------------------------------------------- -->
 <div align="center"> <i>"Seré tu cero a la izquierda, si así te pienso en binario"</i>  </div>
