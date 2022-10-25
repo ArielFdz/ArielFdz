@@ -10,7 +10,7 @@
 - :cat: I love cats. I have fourteen at home.
 
 <!--- -------------------------------------------------------------------------------------------------------------------------------- -->
-<div align="center"> <i>"I will be your zero to the left, if that's how I think of you in binary"</i>  </div>
+<div align="center"> <i>"I will be your zero to the left if that's how I think of you in binary"</i>  </div>
 
 
 
