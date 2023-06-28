@@ -52,3 +52,10 @@
 
 <!--- -------------------------------------------------------------------------------------------------------------------------------- -->
 
+<img src="https://streak-stats.demolab.com/?user=ArielFdz&theme=neon" alt="Streak-Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArielFdz&show_icons=true&theme=neon" alt="Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielFdz&hide=html,css,scss&theme=neon" alt="Top-Lenguages" />
+
+<!--- -------------------------------------------------------------------------------------------------------------------------------- -->
