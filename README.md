@@ -34,8 +34,8 @@
 <!--- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/arielfdz13">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://www.linkedin.com/in/ariel-fern%C3%A1ndez-44b334279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/horus_af/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
